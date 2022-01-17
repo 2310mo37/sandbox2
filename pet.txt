@@ -2,7 +2,3 @@ dog
 cat
 mouse
 snake
-
-
-
-
